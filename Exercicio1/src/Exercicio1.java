@@ -5,6 +5,7 @@ public class Exercicio1 {
     public static void main(String[] args) {
 
         int idade = 10;
+        int ano = 1998;
 
         System.out.println(idade);
 
