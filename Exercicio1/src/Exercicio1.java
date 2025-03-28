@@ -6,8 +6,10 @@ public class Exercicio1 {
 
         int idade = 10;
         int ano = 1998;
+        int dia = 2;
 
         System.out.println(idade);
         System.out.println(ano);
+        System.out.println(dia);
         }
     }
