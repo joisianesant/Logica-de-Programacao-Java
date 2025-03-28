@@ -8,6 +8,6 @@ public class Exercicio1 {
         int ano = 1998;
 
         System.out.println(idade);
-
+        System.out.println(ano);
         }
     }
